@@ -132,3 +132,23 @@ Iman Sukul
 
 Integrated M.Sc. Physics and Astronomy
 National Institute of Technology Rourkela
+
+---
+
+## Simulation Results
+
+### 1. Phase Response
+Output power as a function of the phase difference between the two interferometer arms.
+
+![MZI Phase Response](results/phase_response.png)
+
+### 2. Spectral Response
+Wavelength-dependent transmission showing the interference pattern and free spectral range.
+
+![MZI Spectral Response](results/spectral_response.png)
+
+### 3. Propagation Loss Analysis
+Effect of propagation losses on the interferometer output.
+
+![MZI Loss Analysis](results/loss_analysis.png)
+
