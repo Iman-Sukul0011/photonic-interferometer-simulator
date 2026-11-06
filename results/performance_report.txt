@@ -1,0 +1,29 @@
+MACH-ZEHNDER INTERFEROMETER SIMULATION
+==================================================
+
+IDEAL DEVICE
+Maximum transmission: 0.999998
+Minimum transmission: 0.000000
+Extinction ratio (dB): inf
+Insertion loss (dB): 0.000011
+
+LOSSY DEVICE
+Maximum transmission: 0.639356
+Minimum transmission: 0.008400
+Extinction ratio (dB): 18.814534
+Insertion loss (dB): 1.942573
+
+Theoretical FSR: 28.6012 nm
+
+MODEL PARAMETERS
+Effective index: 2.4
+Group index: 4.2
+Path difference: 20.0 um
+Reference wavelength: 1550.0 nm
+Voltage Vpi: 5.0 V
+
+NUMERICAL VALIDATION
+Analytical error: 5.551e-16
+Energy conservation error: 6.661e-16
+
+All ideal MZI tests passed.
